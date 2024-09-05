@@ -1,0 +1,38 @@
+.sidebar {
+  height: fit-content;
+  width: 250px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border: 1px solid #dee2e6;
+  background-color: #f8f9fa;
+}
+
+.sidebar h3 {
+  margin-left: 26px;
+  font-size: 35px;
+  color: black;
+}
+
+.sidebar hr {
+  background-color: black;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  color: black;
+}
+
+.nav-link span {
+  margin-left: 10px;
+  font-size: 18px;
+}
+
+.container-color-super {
+  /* Add your styles for non-active links */
+}
+
+.container-color-super-active {
+  /* Add your styles for active links */
+}
